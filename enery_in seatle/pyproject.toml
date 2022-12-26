@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "p4"
+version = "0.1.0"
+description = ""
+authors = ["Alhassanne <alhassanne.ahmed@servier.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^1.5.2"
+seaborn = "^0.12.1"
+ipykernel = "^6.17.1"
+scikit-learn = "^1.1.3"
+missingno = "^0.5.1"
+wordcloud = "^1.8.2.2"
+researchpy = "^0.3.5"
+matplotlib = "^3.6.2"
+folium = "^0.14.0"
+handcalcs = "^1.6.1"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.17.1"
+notebook = "^6.5.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
