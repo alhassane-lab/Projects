@@ -1,0 +1,7 @@
+.venv
+__pycache__
+.ipynb_checkpoints
+/Users/alhassanneahmedap59_cb/git/perso/Projects/Aware_additiv/tests
+data
+tests
+.DS_Store
