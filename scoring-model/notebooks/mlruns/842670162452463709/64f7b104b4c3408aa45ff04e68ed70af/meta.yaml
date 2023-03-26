@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alhassanneahmedap59_cb/git/perso/Projects/scoring-model/notebooks/mlruns/842670162452463709/64f7b104b4c3408aa45ff04e68ed70af/artifacts
+end_time: 1679808536546
+entry_point_name: ''
+experiment_id: '842670162452463709'
+lifecycle_stage: active
+run_id: 64f7b104b4c3408aa45ff04e68ed70af
+run_name: reg_logistic_defaut
+run_uuid: 64f7b104b4c3408aa45ff04e68ed70af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679808513069
+status: 3
+tags: []
+user_id: alhassanneahmedap59_cb
